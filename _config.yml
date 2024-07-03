@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yutong Wang / Yutong Wang's Homepage"
+title                    : "Yutong Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Yutong Wang"
 description              : &description "personal description"
