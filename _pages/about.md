@@ -10,8 +10,9 @@ redirect_from:
 Hi there!👋
 
 I'm a second year postgraduate student from Institute of Computing and Intelligence, Harbin Institute of Technology (Shenzhen).
+My supervisor is [Xuebo Liu](https://sunbowliu.github.io/).
 
-My reasearch interest include large language model transfer learning and data synthesis, large language model task-specific instruction tuning, large language model embodied intelligence and machine translation agents.
+My research interest include large language model transfer learning and data synthesis, large language model task-specific instruction tuning, large language model embodied intelligence and machine translation agents.
 
 
 Publications
