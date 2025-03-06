@@ -12,7 +12,7 @@ Hi there!👋
 I'm a doctoral student from Institute of Computing and Intelligence, Harbin Institute of Technology (Shenzhen).
 My supervisor is [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuebo Liu](https://sunbowliu.github.io/).
 
-My research interest include Machine Translation, Large Language model Embodied Intelligence, and Multi-Agent System.
+My research interests include Machine Translation, Large Language model Embodied Intelligence, and Multi-Agent System.
 
 
 Publications
