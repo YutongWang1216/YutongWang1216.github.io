@@ -17,9 +17,9 @@ My research interest include Machine Translation, Large Language model Embodied 
 
 Publications
 ======
-- **[ICLR 2025]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang. [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](https://openreview.net/forum?id=hoYFLRNbhc)
-- **[ACL 2024]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Fandong Meng, Jie Zhou and Min Zhang. [TasTe: Teaching Large Language Models to Translate through Self-Reflection](https://aclanthology.org/2024.acl-long.333/)
-- **[ACL 2023]** Xuebo Liu, **Yutong Wang**, Derek F. Wong, Runzhe Zhan, Liangxuan Yu, Min Zhang [Revisiting Commonsense Reasoning in Machine Translation: Training, Evaluation and Challenge](https://aclanthology.org/2023.acl-long.866/)
+- **[ICLR 2025]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang. [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](https://openreview.net/forum?id=hoYFLRNbhc).
+- **[ACL 2024]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Fandong Meng, Jie Zhou and Min Zhang. [TasTe: Teaching Large Language Models to Translate through Self-Reflection](https://aclanthology.org/2024.acl-long.333/).
+- **[ACL 2023]** Xuebo Liu, **Yutong Wang**, Derek F. Wong, Runzhe Zhan, Liangxuan Yu, Min Zhang. [Revisiting Commonsense Reasoning in Machine Translation: Training, Evaluation and Challenge](https://aclanthology.org/2023.acl-long.866/).
 
 Internship Experience
 ======
