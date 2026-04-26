@@ -12,11 +12,13 @@ Hi there!👋
 I'm a doctoral student from Institute of Computing and Intelligence, Harbin Institute of Technology (Shenzhen).
 My supervisor is [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuebo Liu](https://sunbowliu.github.io/).
 
-My research interests include Machine Translation, Large Language model Embodied Intelligence, and Multi-Agent System.
+My research interests are Multi-Agent System and Machine Translation.
 
 
 Publications
 ======
+- **[ACL 2026]** Rongqing Jiang, Xuebo Liu, Shengxin Liu, **Yutong Wang**, Min Zhang, Shimin Tao, Daimeng Wei, Min Zhang. [DEREA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning]().
+- **[EMNLP 2025 FIndings]** Chunhao Tian, **Yutong Wang**, Xuebo Liu, Zhexuan Wang, Liang Ding, Miao Zhang, Min Zhang. [AgentInit: Initializing LLM-based Multi-Agent Systems via Diversity and Expertise Orchestration for Effective and Efficient Collaboration](https://aclanthology.org/2025.findings-emnlp.636/).
 - **[ACL 2025]** Zhexuan Wang, **Yutong Wang**, Xuebo Liu, Liang Ding, Miao Zhang, Jie Liu, Min Zhang. [AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration](https://arxiv.org/abs/2503.18891).
 - **[ICLR 2025]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang. [DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](https://openreview.net/forum?id=hoYFLRNbhc).
 - **[ACL 2024]** **Yutong Wang**, Jiali Zeng, Xuebo Liu, Fandong Meng, Jie Zhou and Min Zhang. [TasTe: Teaching Large Language Models to Translate through Self-Reflection](https://aclanthology.org/2024.acl-long.333/).
@@ -28,6 +30,7 @@ Internship Experience
 
 Reward
 ======
+- **[10/2025]** National Scholarship for Doctoral Students
 - **[11/2024]** Haitian Yangguang Education Scholarship
 - **[09/2024]** Master's Degree Scholarship **Special Prize**
 - **[09/2024]** Outstanding student
