@@ -17,6 +17,7 @@ My research interests are Multi-Agent System and Machine Translation.
 
 Publications
 ======
+- **[ICML 2026]** Zhexuan Wang, Xuebo Liu, Li Wang, Zifei Shan, **Yutong Wang**, Zhenxi Song, Min Zhang. [MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623).
 - **[ACL 2026]** Rongqing Jiang, Xuebo Liu, Shengxin Liu, **Yutong Wang**, Min Zhang, Shimin Tao, Daimeng Wei, Min Zhang. [DEREA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning]().
 - **[EMNLP 2025 Findings]** Chunhao Tian, **Yutong Wang**, Xuebo Liu, Zhexuan Wang, Liang Ding, Miao Zhang, Min Zhang. [AgentInit: Initializing LLM-based Multi-Agent Systems via Diversity and Expertise Orchestration for Effective and Efficient Collaboration](https://aclanthology.org/2025.findings-emnlp.636/).
 - **[ACL 2025]** Zhexuan Wang, **Yutong Wang**, Xuebo Liu, Liang Ding, Miao Zhang, Jie Liu, Min Zhang. [AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration](https://aclanthology.org/2025.acl-long.1170/).
